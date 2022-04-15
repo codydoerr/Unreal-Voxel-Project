@@ -4,4 +4,4 @@ Unreal-Voxel-Project among ISU Students
 > 
 > Chase Tomlinson - [chasetbass5](https://github.com/chasetbass5)
 > 
-> Tyler Lutz - hoodedcrusher
+> Tyler Lutz - [hoodedcrusher](https://github.com/hoodedcrusher)
